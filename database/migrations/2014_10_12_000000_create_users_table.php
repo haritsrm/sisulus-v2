@@ -20,7 +20,6 @@ class CreateUsersTable extends Migration
             $table->string('tl')->nullable();
             $table->string('nis')->nullable();
             $table->string('nisn')->nullable();
-            $table->string('no_un')->nullable();
             $table->string('komp')->nullable();
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();

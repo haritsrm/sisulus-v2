@@ -1506,7 +1506,8 @@ table.MsoTableGrid
 
 <body lang=EN-ID style='tab-interval:36.0pt' onload="window.print()">
 
-<img src="/banten.png" alt="" style="position: absolute;width: 78.55pt;height: 85pt;top: 20px;left: 20px;">
+<img src="/banten.png" alt="" style="position: absolute;width: 68.55pt;height: 75pt;top: 30px;left: 5px;">
+<img src="/smk.png" alt="" style="position: absolute;width: 74.55pt;height: 75pt;top: 30px;right: 0px;">
 
 <div class=WordSection1>
 
@@ -1516,44 +1517,14 @@ mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-f
 major-bidi'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:70.9pt;margin-bottom:.0001pt;text-align:center;
-line-height:normal'><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
- o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Image1" o:spid="_x0000_s1031" type="#_x0000_t75"
- style='position:absolute;left:0;text-align:left;margin-left:.3pt;margin-top:3.75pt;
- width:78.55pt;height:85pt;z-index:-251655168;visibility:visible;
- mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
- mso-position-horizontal-relative:text;mso-position-vertical:absolute;
- mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
- mso-width-relative:margin;mso-height-relative:margin'>
- <v:imagedataimg src="banten.png" o:title="" style="
-    width: 100px;
-"/>
-</v:shape><b style='mso-bidi-font-weight:normal'><span lang=IT
+margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
+line-height:normal'>
+<b style='mso-bidi-font-weight:normal'><span lang=IT
 style='font-size:18.0pt;font-family:"Times New Roman",serif;mso-ansi-language:
 IT'>PEMERINTAH PROVINSI BANTEN<o:p></o:p></span></b></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:70.9pt;margin-bottom:.0001pt;text-align:center;
+margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
 line-height:normal'><b style='mso-bidi-font-weight:normal'><span lang=IT
 style='font-size:18.0pt;font-family:"Times New Roman",serif;mso-ansi-language:
 IT'>DINAS</span></b><b style='mso-bidi-font-weight:normal'><span lang=IN
@@ -1561,13 +1532,13 @@ style='font-size:18.0pt;font-family:"Times New Roman",serif'> PENDIDIKAN DAN
 KEBUDAYAAN<o:p></o:p></span></b></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:70.9pt;margin-bottom:.0001pt;text-align:center;
+margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
 line-height:normal'><b style='mso-bidi-font-weight:normal'><span lang=IN
 style='font-size:14.0pt;font-family:"Times New Roman",serif'>UNIT PELAKSANA
 TEKNIS<o:p></o:p></span></b></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:70.9pt;margin-bottom:.0001pt;text-align:center;
+margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
 line-height:normal'><b style='mso-bidi-font-weight:normal'><span lang=IN
 style='font-size:18.0pt;font-family:"Times New Roman",serif'>SM</span></b><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:18.0pt;
@@ -1575,25 +1546,25 @@ font-family:"Times New Roman",serif;mso-ansi-language:EN-US'>K</span></b><b
 style='mso-bidi-font-weight:normal'><span lang=IN style='font-size:18.0pt;
 font-family:"Times New Roman",serif'> NEGERI </span></b><b style='mso-bidi-font-weight:
 normal'><span lang=EN-US style='font-size:18.0pt;font-family:"Times New Roman",serif;
-mso-ansi-language:EN-US'>9 KABUPATEN TANGERANG</span></b><b style='mso-bidi-font-weight:
+mso-ansi-language:EN-US'>12 KABUPATEN TANGERANG</span></b><b style='mso-bidi-font-weight:
 normal'><span lang=IN style='font-size:17.0pt;mso-bidi-font-size:18.0pt;
 font-family:"Times New Roman",serif'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal align=center style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:63.8pt;margin-bottom:.0001pt;text-align:center;
+margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
 line-height:normal'><span lang=IN style='font-size:12.0pt;font-family:"Times New Roman",serif;
-letter-spacing:-.6pt'>Perum Argo Subur </span><span lang=EN-US
+letter-spacing:-.6pt'>Jl. Bojong Kp. Babakan Barat Rt. 01/01 Kel. </span><span lang=EN-US
 style='font-size:12.0pt;font-family:"Times New Roman",serif;letter-spacing:
 -.6pt;mso-ansi-language:EN-US'>Ds. </span><span class=SpellE><span lang=IN
 style='font-size:12.0pt;font-family:"Times New Roman",serif;letter-spacing:
--.6pt'>Pasanggrahan</span></span><span lang=IN style='font-size:12.0pt;
+-.6pt'>Babakan </span></span><span lang=IN style='font-size:12.0pt;
 font-family:"Times New Roman",serif;letter-spacing:-.6pt'> </span><span
 class=SpellE><span lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
 letter-spacing:-.6pt;mso-ansi-language:EN-US'>Kec</span></span><span
 lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
 letter-spacing:-.6pt;mso-ansi-language:EN-US'>. </span><span lang=IN
 style='font-size:12.0pt;font-family:"Times New Roman",serif;letter-spacing:
--.6pt'>Solear</span><v:group id="Group_x0020_4" o:spid="_x0000_s1028" style='position:absolute;
+-.6pt'>Legok</span><v:group id="Group_x0020_4" o:spid="_x0000_s1028" style='position:absolute;
  left:0;text-align:left;margin-left:.05pt;margin-top:17.05pt;width:496.05pt;
  height:3.75pt;z-index:251662336;mso-position-horizontal-relative:text;
  mso-position-vertical-relative:text;mso-width-relative:margin' coordsize="66600,477"
@@ -1671,7 +1642,7 @@ AAAPAAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA/AIAAAAA
 " strokecolor="black [3213]" strokeweight="1pt"/>
 </v:group><span lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman",serif;
 letter-spacing:-.6pt;mso-ansi-language:EN-US'> <span class=SpellE>Kab</span>.
-Tangerang email:smkn9solear@yahoo.co.id<o:p></o:p></span></p>
+Tangerang 15820<br>Telp. (021) 29006044 Email : smkn12kabtangerang@yahoo.co.id<o:p></o:p></span></p>
 
 <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt"><hr style="border:2px solid"><hr style="margin:-5px;1.8px solid">
 </p>
@@ -1686,7 +1657,7 @@ KELULUSAN<o:p></o:p></span></u></b></p>
 text-align:center'><span lang=IN style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:
 major-bidi;mso-bidi-theme-font:major-bidi'>Nomor : 421.5/<span
-style='mso-spacerun:yes'>      </span>-SMK.N9/V/2020<o:p></o:p></span></p>
+style='mso-spacerun:yes'>      </span>-SMK.N12/V/2020<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span lang=IN style='font-size:12.0pt;
@@ -1697,7 +1668,7 @@ major-bidi;mso-bidi-theme-font:major-bidi'><o:p>&nbsp;</o:p></span></p>
 margin-left:1.0cm;margin-bottom:.0001pt;text-align:justify'><span lang=IN
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
 mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'>Berdasarkan hasil rapat Dewan Guru SMK Negeri 9 Kabupaten Tangerang
+major-bidi'>Berdasarkan hasil rapat Dewan Guru SMK Negeri 12 Kabupaten Tangerang
 tanggal 20 April 2019 yang berpedoman kepada:<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
@@ -1802,7 +1773,7 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
 justify;text-indent:1.0cm;line-height:150%'><span lang=IN style='font-size:
 12.0pt;line-height:150%;font-family:"Times New Roman",serif;mso-ascii-theme-font:
 major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>Kepala
-SMK Negeri 9 Kabupaten Tangerang dengan ini menerangkan bahwa:<o:p></o:p></span></p>
+SMK Negeri 12 Kabupaten Tangerang dengan ini menerangkan bahwa:<o:p></o:p></span></p>
 
 <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=611
  style='width:458.3pt;margin-left:55.05pt;border-collapse:collapse;border:none;
@@ -1941,40 +1912,6 @@ SMK Negeri 9 Kabupaten Tangerang dengan ini menerangkan bahwa:<o:p></o:p></span>
   mso-themecolor:background1'><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:3;height:22.7pt'>
-  <td width=189 style='width:5.0cm;padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=IN style='font-size:12.0pt;font-family:"Times New Roman",serif;
-  mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-  major-bidi'>Nomor Peserta UN<o:p></o:p></span></p>
-  </td>
-  <td width=19 style='width:14.15pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span lang=IN style='font-size:12.0pt;font-family:"Times New Roman",serif;
-  mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-  major-bidi'>:<o:p></o:p></span></p>
-  </td>
-  <td width=403 colspan=2 style='width:302.4pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.7pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><!--[if supportFields]><span lang=IN style='font-size:12.0pt;
-  font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
-  mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;color:white;
-  mso-themecolor:background1'><span style='mso-element:field-begin'></span><span
-  style='mso-spacerun:yes'> </span>MERGEFIELD NPUN1 <span style='mso-element:
-  field-separator'></span></span><![endif]--><span lang=IN style='font-size:
-  12.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
-  mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;color:black;
-  mso-themecolor:background1'><span style='mso-no-proof:yes'>{{ $user->no_un }}</span></span><!--[if supportFields]><span
-  lang=IN style='font-size:12.0pt;font-family:"Times New Roman",serif;
-  mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-  major-bidi;color:white;mso-themecolor:background1'><span style='mso-element:
-  field-end'></span></span><![endif]--><span lang=IN style='font-size:12.0pt;
-  font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
-  mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;color:white;
-  mso-themecolor:background1'><o:p></o:p></span></p>
-  </td>
- </tr>
  <tr style='mso-yfti-irow:4;height:22.7pt'>
   <td width=189 style='width:5.0cm;padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -2054,7 +1991,7 @@ SMK Negeri 9 Kabupaten Tangerang dengan ini menerangkan bahwa:<o:p></o:p></span>
 margin-left:2.0cm;margin-bottom:.0001pt;line-height:normal'><span lang=IN
 style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
 major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>dari
-SMK Negeri 9 Kabupaten Tangerang pada Tahun Pelajaran 2019/2020. <o:p></o:p></span></p>
+SMK Negeri 12 Kabupaten Tangerang pada Tahun Pelajaran 2019/2020. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal'><span lang=IN style='font-size:12.0pt;font-family:"Times New Roman",serif;
@@ -2088,7 +2025,7 @@ margin-left:306.0pt;margin-bottom:.0001pt;line-height:150%'>
 margin-left:306.0pt;margin-bottom:.0001pt;line-height:150%'><span lang=IN
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'>Tangerang, 2020<o:p></o:p></span></p>
+major-bidi'>Tangerang, 04 Mei 2020<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:306.0pt;margin-bottom:.0001pt;line-height:150%'><span lang=IN
@@ -2120,13 +2057,12 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
 margin-left:306.0pt;margin-bottom:.0001pt'><b><u><span lang=IN
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
 mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'>Ir. S U H A R N I, M.Pd.<o:p></o:p></span></u></b></p>
+major-bidi'>ISMAN HIDAYAT, M.Pd.<o:p></o:p></span></u></b></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:306.0pt;margin-bottom:.0001pt'><span lang=IN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
-mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>NIP. 19650108
-200012 2 001<o:p></o:p></span></p>
+mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>NIP. 197203181999031004<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal'><span lang=IN style='font-size:12.0pt;font-family:"Times New Roman",serif;

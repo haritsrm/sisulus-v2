@@ -14,12 +14,11 @@
                         </div>
                     @endif
 
-                    @if ($user->tempat != null && $user->tl != null && $user->nis != null && $user->nisn != null && $user->no_un != null && $user->komp != null)
+                    @if ($user->tempat != null && $user->tl != null && $user->nis != null && $user->nisn != null && $user->komp != null)
                         <p>Berikut ini adalah bioadata anda, silahkan di cek terlebih dahulu sebelum mencetak.</p>
                         <p><strong>Nama</strong> : {{$user->name}}</p>
                         <p><strong>TTL</strong> : {{$user->tempat}}, {{$user->tl}}</p>
                         <p><strong>NIS/NISN</strong> : {{$user->nis}} / {{$user->nisn}}</p>
-                        <p><strong>No UN</strong> : {{$user->no_un}}</p>
                         <p><strong>Kompetensi Keahlian</strong> : {{$user->komp}}</p>
                         Jika biodata salah anda bisa mengupdatenya disini 
                         <a href="{{route('profile')}}" class="btn btn-primary ml-2">Update Biodata</a>

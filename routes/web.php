@@ -27,7 +27,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::group(['middleware' => 'auth'], function() {
     Route::get('/print', function(Request $req) {
         $user = $req->user();
-        if ($user->tempat != null && $user->tl != null && $user->nis != null && $user->nisn != null && $user->no_un != null && $user->komp != null) {
+        if ($user->tempat != null && $user->tl != null && $user->nis != null && $user->nisn != null && $user->komp != null) {
             return view('surat')->with('user', $user);
         }
 
@@ -46,7 +46,6 @@ Route::group(['middleware' => 'auth'], function() {
         $user->tl = $req->tanggal_lahir;
         $user->nis = $req->nis;
         $user->nisn = $req->nisn;
-        $user->no_un = $req->no_un;
         $user->komp = $req->komp;
         $user->save();
         return redirect('/home');
