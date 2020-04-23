@@ -80,10 +80,11 @@
             @endif
 
             <div class="content">
+                <img src="/smk.png" alt="" style="width:100px">
                 <div class="title m-b-md">
-                    <h3>Sistem Surat Kelulusan</h3>
-                    <p>SMKN 12 Kab. Tangerang</p>
+                    Sistem Surat Kelulusan
                 </div>
+                <h3>SMKN 12 Kab. Tangerang</h3>
             </div>
         </div>
     </body>

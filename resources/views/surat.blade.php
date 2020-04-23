@@ -1656,8 +1656,7 @@ KELULUSAN<o:p></o:p></span></u></b></p>
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center'><span lang=IN style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:
-major-bidi;mso-bidi-theme-font:major-bidi'>Nomor : 421.5/<span
-style='mso-spacerun:yes'>      </span>-SMK.N12/V/2020<o:p></o:p></span></p>
+major-bidi;mso-bidi-theme-font:major-bidi'>Nomor : 421.6/800/120/</span>SMK.N12/2020<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:normal'><span lang=IN style='font-size:12.0pt;
@@ -1669,7 +1668,7 @@ margin-left:1.0cm;margin-bottom:.0001pt;text-align:justify'><span lang=IN
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
 mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
 major-bidi'>Berdasarkan hasil rapat Dewan Guru SMK Negeri 12 Kabupaten Tangerang
-tanggal 20 April 2019 yang berpedoman kepada:<o:p></o:p></span></p>
+tanggal 28 April 2019 yang berpedoman kepada:<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:46.35pt;margin-bottom:.0001pt;mso-add-space:auto;
@@ -2025,7 +2024,7 @@ margin-left:306.0pt;margin-bottom:.0001pt;line-height:150%'>
 margin-left:306.0pt;margin-bottom:.0001pt;line-height:150%'><span lang=IN
 style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
 mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'>Tangerang, 04 Mei 2020<o:p></o:p></span></p>
+major-bidi'>Tangerang, 02 Mei 2020<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:306.0pt;margin-bottom:.0001pt;line-height:150%'><span lang=IN
@@ -2052,6 +2051,8 @@ major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>
 margin-left:306.0pt;margin-bottom:.0001pt;line-height:normal'><span lang=IN
 style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
 major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>&nbsp;</o:p></span></p>
+
+<img src="/ttd.png" alt="" style="position: absolute;width: 168.55pt;right:150;bottom:120;z-index:-1">
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:306.0pt;margin-bottom:.0001pt'><b><u><span lang=IN
