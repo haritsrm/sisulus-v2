@@ -1690,20 +1690,7 @@ lang=IN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 mso-ascii-theme-font:major-bidi;mso-fareast-font-family:"Times New Roman";
 mso-fareast-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
 major-bidi'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><v:shape id="Picture_x0020_5" o:spid="_x0000_s1027"
- type="#_x0000_t75" style='position:absolute;left:0;text-align:left;
- margin-left:101.45pt;margin-top:149.25pt;width:315pt;height:311.6pt;z-index:-251658240;
- visibility:visible;mso-wrap-style:square;mso-width-percent:0;
- mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;
- mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;
- mso-position-horizontal:absolute;mso-position-horizontal-relative:margin;
- mso-position-vertical:absolute;mso-position-vertical-relative:margin;
- mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
- mso-height-relative:page'>
- <v:imagedata src="Surat%20Keterangan%20Kelulusan%20TA%202019-2020.fld/image002.jpg"
-  o:title="" gain="19661f" blacklevel="22938f"/>
- <w:wrap anchorx="margin" anchory="margin"/>
-</v:shape><span lang=IN style='font-size:12.0pt;line-height:115%;font-family:
+</span></span></span><span lang=IN style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif;mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:
 major-bidi;mso-bidi-theme-font:major-bidi'>Peraturan Menteri Pendidikan dan
 Kebudayaan <span style='mso-spacerun:yes'> </span>Nomor 4 Tahun 2018 Tentang
@@ -1760,7 +1747,7 @@ major-bidi'><span style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New R
 </span></span></span><![endif]><span lang=IN style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
 mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>SK Kepala
-Sekolah Nomor 421.5/SKEP/004-SMK.N9/I/2020 tentang Kenaikan Kelas dan Kriteria
+Sekolah Nomor 421.6/101/SMKN.12/2020 tentang Kenaikan Kelas dan Kriteria
 Kelulusan Tahun Pelajaran 2019/2020<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
@@ -2052,7 +2039,7 @@ margin-left:306.0pt;margin-bottom:.0001pt;line-height:normal'><span lang=IN
 style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
 major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>&nbsp;</o:p></span></p>
 
-<img src="/ttd.png" alt="" style="position: absolute;width: 168.55pt;right:150;bottom:120;z-index:-1">
+<img src="/ttd.png" alt="" style="position: absolute;width: 168.55pt;right:150;bottom:90;z-index:-1">
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:306.0pt;margin-bottom:.0001pt'><b><u><span lang=IN
