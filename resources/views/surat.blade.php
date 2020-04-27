@@ -2039,7 +2039,7 @@ margin-left:306.0pt;margin-bottom:.0001pt;line-height:normal'><span lang=IN
 style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
 major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>&nbsp;</o:p></span></p>
 
-<img src="/ttd.png" alt="" style="position: absolute;width: 168.55pt;right:150;bottom:90;z-index:-1">
+<img src="/ttd.png" alt="" style="position: absolute;width: 168.55pt;right:150;top:750;z-index:-1">
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:306.0pt;margin-bottom:.0001pt'><b><u><span lang=IN
