@@ -26,6 +26,20 @@
                         </div>
 
                         <div class="form-group row">
+                            <label for="nisn" class="col-md-4 col-form-label text-md-right">{{ __('NISN') }}</label>
+
+                            <div class="col-md-6">
+                                <input id="nisn" onkeypress="return event.charCode != 32" type="text" class="form-control @error('nisn') is-invalid @enderror" name="nisn" value="{{ old('nisn') }}" required autocomplete="nisn" autofocus>
+
+                                @error('nisn')
+                                    <span class="invalid-feedback" role="alert">
+                                        <strong>{{ $message }}</strong>
+                                    </span>
+                                @enderror
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
                             <label for="email" class="col-md-4 col-form-label text-md-right">{{ __('E-Mail Address') }}</label>
 
                             <div class="col-md-6">

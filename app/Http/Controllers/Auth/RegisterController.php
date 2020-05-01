@@ -8,6 +8,9 @@ use App\User;
 use Illuminate\Foundation\Auth\RegistersUsers;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Http\Request;
+use Illuminate\Http\Response;
+use Illuminate\Auth\Events\Registered;
 
 class RegisterController extends Controller
 {
@@ -64,10 +67,59 @@ class RegisterController extends Controller
      */
     protected function create(array $data)
     {
-        return User::create([
-            'name' => $data['name'],
-            'email' => $data['email'],
-            'password' => Hash::make($data['password']),
-        ]);
+        $unallowedUsers = [
+            '0032613008',
+            '0023233133',
+            '0029985514',
+            '0026342213',
+            '0023518656',
+            '0025770421',
+            '0018185691',
+            '0023495391',
+            '0010432794',
+            '0016530493',
+            '0022794719',
+            '0018095638',
+            '0016356974',
+            '0025954068',
+            '0019360766',
+            '0010186581'
+        ];
+        if (!in_array($data['nisn'], $unallowedUsers)) {
+            return User::create([
+                'name' => $data['name'],
+                'email' => $data['email'],
+                'nisn' => $data['nisn'],
+                'password' => Hash::make($data['password']),
+            ]);
+        }
+
+        return 'error';
+    }
+
+
+    /**
+     * Handle a registration request for the application.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function register(Request $request)
+    {
+        $this->validator($request->all())->validate();
+
+        event(new Registered($user = $this->create($request->all())));
+
+        if ($user !== 'error') {
+            $this->guard()->login($user);
+        }
+
+        if ($response = $this->registered($request, $user)) {
+            return $response;
+        }
+
+        return $request->wantsJson()
+                    ? new Response('', 201)
+                    : redirect($this->redirectPath());
     }
 }

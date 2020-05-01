@@ -1663,93 +1663,6 @@ text-align:center;line-height:normal'><span lang=IN style='font-size:12.0pt;
 font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:
 major-bidi;mso-bidi-theme-font:major-bidi'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:1.0cm;margin-bottom:.0001pt;text-align:justify'><span lang=IN
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
-mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'>Berdasarkan hasil rapat Dewan Guru SMK Negeri 12 Kabupaten Tangerang
-tanggal 28 April 2019 yang berpedoman kepada:<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:46.35pt;margin-bottom:.0001pt;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;mso-list:l5 level1 lfo10'><![if !supportLists]><span
-lang=IN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
-mso-ascii-theme-font:major-bidi;mso-fareast-font-family:"Times New Roman";
-mso-fareast-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=IN style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
-mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>Peraturan
-Menteri Pendidikan dan Kebudayaan Nomor 20 Tahun 2016 Tentang Standar
-Kompetensi Lulusan Pendidikan Dasar dan Menengah<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:46.35pt;margin-bottom:.0001pt;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;mso-list:l5 level1 lfo10'><![if !supportLists]><span
-lang=IN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
-mso-ascii-theme-font:major-bidi;mso-fareast-font-family:"Times New Roman";
-mso-fareast-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><span lang=IN style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif;mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:
-major-bidi;mso-bidi-theme-font:major-bidi'>Peraturan Menteri Pendidikan dan
-Kebudayaan <span style='mso-spacerun:yes'> </span>Nomor 4 Tahun 2018 Tentang
-Penilaian Hasil Belajar oleh Pemerintah dan Penilaian Hasil Belajar oleh Satuan
-Pendidikan<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:46.35pt;margin-bottom:.0001pt;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;mso-list:l5 level1 lfo10'><![if !supportLists]><span
-lang=IN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
-mso-ascii-theme-font:major-bidi;mso-fareast-font-family:"Times New Roman";
-mso-fareast-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=IN style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
-mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>POS Ujian
-Nasional Tahun Pelajaran 2019/2020<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:46.35pt;margin-bottom:.0001pt;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;mso-list:l5 level1 lfo10'><![if !supportLists]><span
-lang=IN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
-mso-ascii-theme-font:major-bidi;mso-fareast-font-family:"Times New Roman";
-mso-fareast-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=IN style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
-mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>Surat Edaran
-Menteri Pendidikan dan Kebudayaan Nomor 4 Tahun 2020 tentang Pelaksanaan<span
-style='mso-spacerun:yes'>  </span>Kebijakan Pendidikan Dalam<span
-style='mso-spacerun:yes'>  </span>Masa Darurat Penyebaran<span
-style='mso-spacerun:yes'>  </span><i>Corona Virus<span
-style='mso-spacerun:yes'>  </span>Disease</i> (COVID-19)<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:46.35pt;margin-bottom:.0001pt;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;mso-list:l5 level1 lfo10'><![if !supportLists]><span
-lang=IN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
-mso-ascii-theme-font:major-bidi;mso-fareast-font-family:"Times New Roman";
-mso-fareast-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=IN style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
-mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>POS Ujian
-Sekolah Tahun Pelajaran 2019/2020<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:46.35pt;margin-bottom:.0001pt;mso-add-space:auto;
-text-align:justify;text-indent:-18.0pt;mso-list:l5 level1 lfo10'><![if !supportLists]><span
-lang=IN style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
-mso-ascii-theme-font:major-bidi;mso-fareast-font-family:"Times New Roman";
-mso-fareast-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'><span style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=IN style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif;mso-ascii-theme-font:major-bidi;
-mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'>SK Kepala
-Sekolah Nomor 421.6/101/SMKN.12/2020 tentang Kenaikan Kelas dan Kriteria
-Kelulusan Tahun Pelajaran 2019/2020<o:p></o:p></span></p>
-
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
 justify;text-indent:1.0cm;line-height:150%'><span lang=IN style='font-size:
 12.0pt;line-height:150%;font-family:"Times New Roman",serif;mso-ascii-theme-font:
@@ -1984,12 +1897,6 @@ normal'><span lang=IN style='font-size:12.0pt;font-family:"Times New Roman",seri
 mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
 major-bidi'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:1.0cm;margin-bottom:.0001pt;text-align:justify;line-height:150%'><span
-lang=IN style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;
-mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:
-major-bidi'>Demikian keterangan ini dibuat untuk dipergunakan sebagaimana mestinya.<o:p></o:p></span></p>
-
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
 justify;line-height:normal;tab-stops:54.0pt 153.0pt 162.0pt'><span lang=IN
 style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
@@ -2039,7 +1946,7 @@ margin-left:306.0pt;margin-bottom:.0001pt;line-height:normal'><span lang=IN
 style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
 major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi'><o:p>&nbsp;</o:p></span></p>
 
-<img src="/ttd.png" alt="" style="position: absolute;width: 168.55pt;right:150;top:750;z-index:-1">
+<img src="/ttd.png" alt="" style="position: absolute;width: 168.55pt;right:150;top:520;z-index:-1">
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:306.0pt;margin-bottom:.0001pt'><b><u><span lang=IN
