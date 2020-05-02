@@ -28,8 +28,22 @@ Route::group(['middleware' => 'auth'], function() {
     Route::get('/print', function(Request $req) {
         $user = $req->user();
         $unallowedUsers = ['0032613008','0023233133','0029985514','0026342213','0023518656','0025770421','0018185691','0023495391','0010432794','0016530493','0022794719','0018095638','0016356974','0025954068','0019360766','0010186581'];
+        $unallowedUserName = [
+            'ABDUL HAMID',
+            'AHMAD FARHAN',
+            'DIMAS ALI YUSUF',
+            'FARCHAN YAZID',
+            'FAUZZAN MUSOFI',
+            'MUHAMMAD AGAM TAMLICA',
+            'REZA ARRASYD PRATAMA',
+            'AHMAD HIDAYAT',
+            'DANIEL YULIANTO',
+            'EKA NURDIANSYAH',
+            'EQI ARYA DHARMA PUTRA',
+            'MUKTADO'
+        ];
         if ($user->tempat != null && $user->tl != null && $user->nis != null && $user->nisn != null && $user->komp != null) {
-            return view('surat')->with('user', $user)->with('unallowedUsers', $unallowedUsers);
+            return view('surat')->with('user', $user)->with('unallowedUsers', $unallowedUsers)->with('unallowedUserName', $unallowedUserName);
         }
 
         return redirect()->back();
@@ -42,7 +56,6 @@ Route::group(['middleware' => 'auth'], function() {
     
     Route::post('/profile', function(Request $req) {
         $user = User::find($req->user()->id);
-        $user->name = $req->name;
         $user->tempat = $req->tempat_lahir;
         $user->tl = $req->tanggal_lahir;
         $user->nis = $req->nis;

@@ -85,13 +85,29 @@ class RegisterController extends Controller
             '0019360766',
             '0010186581'
         ];
+        $unallowedUserName = [
+            'ABDUL HAMID',
+            'AHMAD FARHAN',
+            'DIMAS ALI YUSUF',
+            'FARCHAN YAZID',
+            'FAUZZAN MUSOFI',
+            'MUHAMMAD AGAM TAMLICA',
+            'REZA ARRASYD PRATAMA',
+            'AHMAD HIDAYAT',
+            'DANIEL YULIANTO',
+            'EKA NURDIANSYAH',
+            'EQI ARYA DHARMA PUTRA',
+            'MUKTADO'
+        ];
         if (!in_array($data['nisn'], $unallowedUsers)) {
-            return User::create([
-                'name' => $data['name'],
-                'email' => $data['email'],
-                'nisn' => $data['nisn'],
-                'password' => Hash::make($data['password']),
-            ]);
+            if (!in_array(strtoupper($data['name']), $unallowedUserName)) {
+                return User::create([
+                    'name' => $data['name'],
+                    'email' => $data['email'],
+                    'nisn' => $data['nisn'],
+                    'password' => Hash::make($data['password']),
+                ]);
+            }
         }
 
         return 'error';

@@ -1876,8 +1876,10 @@ SMK Negeri 12 Kabupaten Tangerang dengan ini menerangkan bahwa:<o:p></o:p></span
   major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;
   color:#1F497D;mso-themecolor:text2'><span style='mso-no-proof:yes'>
 
-  @if(!in_array($user->nisn, $unallowedUsers)) 
+  @if(!in_array($user->nisn, $unallowedUsers))
+    @if (!in_array(strtoupper($user->name), $unallowedUserName))
     LULUS
+    @endif
   @else
     DITUNDA
   @endif
