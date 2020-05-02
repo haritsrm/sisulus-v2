@@ -1874,7 +1874,14 @@ SMK Negeri 12 Kabupaten Tangerang dengan ini menerangkan bahwa:<o:p></o:p></span
   style='mso-bidi-font-weight:normal'><span lang=IN style='font-size:24.0pt;
   mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
   major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;
-  color:#1F497D;mso-themecolor:text2'><span style='mso-no-proof:yes'>LULUS</span></span></b><!--[if supportFields]><b
+  color:#1F497D;mso-themecolor:text2'><span style='mso-no-proof:yes'>
+
+  @if(!in_array($user->nisn, $unallowedUsers)) 
+    LULUS
+  @else
+    DITUNDA
+  @endif
+  </span></span></b><!--[if supportFields]><b
   style='mso-bidi-font-weight:normal'><span lang=IN style='font-size:24.0pt;
   mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-ascii-theme-font:
   major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;

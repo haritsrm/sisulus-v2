@@ -71,7 +71,7 @@
                             <label for="nisn" class="col-md-4 col-form-label text-md-right">{{ __('NISN') }}</label>
 
                             <div class="col-md-6">
-                                <input id="nisn" type="text" class="form-control @error('nisn') is-invalid @enderror" name="nisn" value="{{ $user->nisn }}" required autocomplete="nisn" autofocus>
+                                <input id="nisn" type="text" class="form-control @error('nisn') is-invalid @enderror" name="nisn" value="{{ $user->nisn }}" required autocomplete="nisn" readonly>
 
                                 @error('nisn')
                                     <span class="invalid-feedback" role="alert">

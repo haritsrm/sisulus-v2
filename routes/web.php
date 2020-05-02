@@ -27,8 +27,9 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::group(['middleware' => 'auth'], function() {
     Route::get('/print', function(Request $req) {
         $user = $req->user();
+        $unallowedUsers = ['0032613008','0023233133','0029985514','0026342213','0023518656','0025770421','0018185691','0023495391','0010432794','0016530493','0022794719','0018095638','0016356974','0025954068','0019360766','0010186581'];
         if ($user->tempat != null && $user->tl != null && $user->nis != null && $user->nisn != null && $user->komp != null) {
-            return view('surat')->with('user', $user);
+            return view('surat')->with('user', $user)->with('unallowedUsers', $unallowedUsers);
         }
 
         return redirect()->back();
@@ -45,7 +46,6 @@ Route::group(['middleware' => 'auth'], function() {
         $user->tempat = $req->tempat_lahir;
         $user->tl = $req->tanggal_lahir;
         $user->nis = $req->nis;
-        $user->nisn = $req->nisn;
         $user->komp = $req->komp;
         $user->save();
         return redirect('/home');
